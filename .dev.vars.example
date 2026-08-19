@@ -1,0 +1,3 @@
+# Never commit a real .dev.vars file.
+BSC_RPC_URL_PRIMARY=https://bsc-dataseed.bnbchain.org
+BSC_RPC_URL_SECONDARY=https://rpc-bsc.48.club

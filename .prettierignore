@@ -1,0 +1,9 @@
+node_modules/
+.wrangler/
+worker-configuration.d.ts
+pnpm-lock.yaml
+PRD.md
+src/abi-vesting.ts
+.claude/
+.dev.vars
+.dev.vars.*
